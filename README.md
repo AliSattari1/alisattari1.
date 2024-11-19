@@ -23,6 +23,5 @@ I’m Ali Sattari Dehkordi, currently pursuing my master's degree in Cognitive S
 
 ### Let’s Connect! 🌐
 - [LinkedIn](www.linkedin.com/in/ali-sattari-dehkordi)  
-- [Email](mailto:your-email@example.com)  
 
 Feel free to explore my repositories and reach out if you’d like to collaborate on exciting projects!
